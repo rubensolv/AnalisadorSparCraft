@@ -1,0 +1,9 @@
+1 AlphaBeta AB
+2 UCT UCT
+3 PortfolioGreedySearch PGS+
+4 PortfolioGreedySearchDavePlusShort PGS
+5 PortfolioGreedySearchCache PGS+C
+6 PortfolioOnlineEvolution POE
+7 PortfolioOnlineEvolutionCache POE+C
+8 StratifiedPolicySearch SSS
+9 StratifiedPolicySearchCache SSS+C
